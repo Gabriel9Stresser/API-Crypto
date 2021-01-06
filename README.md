@@ -6,4 +6,4 @@
     Foi usado também o Frameworkd Bootstrap para alinhamento de alguns elementos
 </p>
 
-![n][WhatsApp Image 2021-01-05 at 21 18 23](https://user-images.githubusercontent.com/65667183/103713639-a1eb2700-4f9b-11eb-96bb-4dfba58b3681.jpeg)
+![WhatsApp Image 2021-01-05 at 21 18 23](https://user-images.githubusercontent.com/65667183/103713639-a1eb2700-4f9b-11eb-96bb-4dfba58b3681.jpeg)
